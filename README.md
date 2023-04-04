@@ -127,5 +127,26 @@ Revisiting Test Selection under Model Calibration
 
 <figure>
   <figcaption>Noise Test Set</figcaption>
-  <img src=./tables/Noise_select.png  alt="hahaha" width="500" height="300">
+  <img src=./tables/noise_select.png  alt="hahaha" width="500" height="300">
+</figure>
+
+## 所有测试集, 不同校准程度模型重训练基准模型实验结果
+<figure>
+  <figcaption>Brightness Test Set</figcaption>
+  <img src=./tables/brightness_retrain.png  alt="hahaha" width="500" height="300">
+</figure>
+
+<figure>
+  <figcaption>Fog Test Set</figcaption>
+  <img src=./tables/fog_retrain.png  alt="hahaha" width="500" height="300">
+</figure>
+
+<figure>
+  <figcaption>Glass Blur Test Set</figcaption>
+  <img src=./tables/blur_retrain.png  alt="hahaha" width="500" height="300">
+</figure>
+
+<figure>
+  <figcaption>Noise Test Set</figcaption>
+  <img src=./tables/noise_retrain.png  alt="hahaha" width="500" height="300">
 </figure>

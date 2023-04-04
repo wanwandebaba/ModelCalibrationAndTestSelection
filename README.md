@@ -5,7 +5,7 @@ Introduction
 
 <figure>
   <img src=./images/DeepGini_original_viewlevel.png  alt="hahaha", width="500", height="500"> 
-  <figcaption>DeepGini: Original Test Set</figcaption>
+  <figcaption text-align="center">DeepGini: Original Test Set</figcaption>
 </figure>
 
 <figure>
@@ -24,7 +24,7 @@ Introduction
 </figure>
 
 <figure>
-  <img src=./images/DeepGini_shear_viewlevel.png  alt="hahaha" width="500" height="500">
+  <img src=./images/DeepGini_shear_viewlevel.png  alt="hahaha" width="500" height="500" text-align="center">
   <figcaption>DeepGini: Shear Test Set</figcaption>
 </figure>
 

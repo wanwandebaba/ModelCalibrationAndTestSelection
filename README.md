@@ -3,33 +3,28 @@ Revisiting Test Selection under Model Calibration
 
 Introduction
 
-<style>
-  figure { text-align: center; }
-  figcaption { font-style: italic; text-align: center; caption-side: bottom;}
-</style>
-
 <figure>
-  <img src=./images/DeepGini_original_viewlevel.png  alt="hahaha"> 
+  <img src=./images/DeepGini_original_viewlevel.png  alt="hahaha", width="500", height="500"> 
   <figcaption>DeepGini: Original Test Set</figcaption>
 </figure>
 
 <figure>
-  <img src=./images/DeepGini_brightness_viewlevel.png  alt="hahaha"> 
+  <img src=./images/DeepGini_brightness_viewlevel.png  alt="hahaha" width="500" height="500">
   <figcaption>DeepGini: Brightness Test Set</figcaption>
 </figure>
 
 <figure>
-  <img src=./images/DeepGini_fog_viewlevel.png  alt="hahaha"> 
+  <img src=./images/DeepGini_fog_viewlevel.png  alt="hahaha" width="500" height="500">
   <figcaption>DeepGini: Fog Test Set</figcaption>
 </figure>
 
 <figure>
-  <img src=./images/DeepGini_glass_blur_viewlevel.png  alt="hahaha"> 
+  <img src=./images/DeepGini_glass_blur_viewlevel.png  alt="hahaha" width="500" height="500">
   <figcaption>DeepGini: Glass Blur Test Set</figcaption>
 </figure>
 
 <figure>
-  <img src=./images/DeepGini_shear_viewlevel.png  alt="hahaha"> 
+  <img src=./images/DeepGini_shear_viewlevel.png  alt="hahaha" width="500" height="500">
   <figcaption>DeepGini: Shear Test Set</figcaption>
 </figure>
 

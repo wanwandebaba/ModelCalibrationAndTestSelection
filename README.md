@@ -108,3 +108,24 @@ Revisiting Test Selection under Model Calibration
   <figcaption>MaxP: Shear Test Set</figcaption>
   <img src=./images/MaxP_shear_viewlevel.png  alt="hahaha"  width="500" height="500">
 </figure>
+
+## 所有测试集, 不同校准程度模型发现误分类样例实验结果
+<figure>
+  <figcaption>Brightness Test Set</figcaption>
+  <img src=./tables/brightness_select.png  alt="hahaha" width="500" height="300">
+</figure>
+
+<figure>
+  <figcaption>Fog Test Set</figcaption>
+  <img src=./tables/fog_select.png  alt="hahaha" width="500" height="300">
+</figure>
+
+<figure>
+  <figcaption>Glass Blur Test Set</figcaption>
+  <img src=./tables/blur_select.png  alt="hahaha" width="500" height="300">
+</figure>
+
+<figure>
+  <figcaption>Noise Test Set</figcaption>
+  <img src=./tables/Noise_select.png  alt="hahaha" width="500" height="300">
+</figure>

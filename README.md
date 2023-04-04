@@ -5,7 +5,7 @@ Introduction
 
 <figure>
   <img src=./images/DeepGini_original_viewlevel.png  alt="hahaha", width="500", height="500"> 
-  <figcaption text-align="center">DeepGini: Original Test Set</figcaption>
+  <figcaption style= "text-align: center;">DeepGini: Original Test Set</figcaption>
 </figure>
 
 <figure>

@@ -1,104 +1,110 @@
 # ModelCalibrationAndTestSelection
 Revisiting Test Selection under Model Calibration
 
-Introduction
+## 所有测试集，DeepGini，各不确定级别桶的结果
 
 <figure>
+  <figcaption>DeepGini: Original Test Set</figcaption>
   <img src=./images/DeepGini_original_viewlevel.png  alt="hahaha", width="500", height="500"> 
-  <figcaption style= "text-align: center;">DeepGini: Original Test Set</figcaption>
 </figure>
 
 <figure>
-  <img src=./images/DeepGini_brightness_viewlevel.png  alt="hahaha" width="500" height="500">
   <figcaption>DeepGini: Brightness Test Set</figcaption>
+  <img src=./images/DeepGini_brightness_viewlevel.png  alt="hahaha" width="500" height="500">
 </figure>
 
 <figure>
-  <img src=./images/DeepGini_fog_viewlevel.png  alt="hahaha" width="500" height="500">
   <figcaption>DeepGini: Fog Test Set</figcaption>
+  <img src=./images/DeepGini_fog_viewlevel.png  alt="hahaha" width="500" height="500">
 </figure>
 
 <figure>
-  <img src=./images/DeepGini_glass_blur_viewlevel.png  alt="hahaha" width="500" height="500">
   <figcaption>DeepGini: Glass Blur Test Set</figcaption>
+  <img src=./images/DeepGini_glass_blur_viewlevel.png  alt="hahaha" width="500" height="500">
 </figure>
 
 <figure>
-  <img src=./images/DeepGini_shear_viewlevel.png  alt="hahaha" width="500" height="500" text-align="center">
   <figcaption>DeepGini: Shear Test Set</figcaption>
+  <img src=./images/DeepGini_shear_viewlevel.png  alt="hahaha" width="500" height="500" text-align="center">
 </figure>
 
+## 所有测试集，Entropy，各不确定级别桶的结果
+
 <figure>
-  <img src=./images/Entropy_original_viewlevel.png  alt="hahaha"> 
   <figcaption>Entropy: Original Test Set</figcaption>
+  <img src=./images/Entropy_original_viewlevel.png  alt="hahaha" width="500" height="500"> 
 </figure>
 
 <figure>
-  <img src=./images/Entropy_brightness_viewlevel.png  alt="hahaha"> 
   <figcaption>Entropy: Brightness Test Set</figcaption>
+  <img src=./images/Entropy_brightness_viewlevel.png  alt="hahaha" width="500" height="500">
 </figure>
 
 <figure>
-  <img src=./images/Entropy_fog_viewlevel.png  alt="hahaha"> 
   <figcaption>Entropy: Fog Test Set</figcaption>
+  <img src=./images/Entropy_fog_viewlevel.png  alt="hahaha" width="500" height="500">
 </figure>
 
 <figure>
-  <img src=./images/Entropy_glass_blur_viewlevel.png  alt="hahaha"> 
   <figcaption>Entropy: Glass Blur Test Set</figcaption>
+  <img src=./images/Entropy_glass_blur_viewlevel.png  alt="hahaha" width="500" height="500">
 </figure>
 
 <figure>
-  <img src=./images/Entropy_shear_viewlevel.png  alt="hahaha"> 
   <figcaption>Entropy: Shear Test Set</figcaption>
+  <img src=./images/Entropy_shear_viewlevel.png  alt="hahaha" width="500" height="500">
 </figure>
 
+## 所有测试集，Margin，各不确定级别桶的结果
+
 <figure>
-  <img src=./images/Margin_original_viewlevel.png  alt="hahaha"> 
   <figcaption>Margin: Original Test Set</figcaption>
+  <img src=./images/Margin_original_viewlevel.png  alt="hahaha" width="500" height="500">
 </figure>
 
 <figure>
-  <img src=./images/Margin_brightness_viewlevel.png  alt="hahaha"> 
   <figcaption>Margin: Brightness Test Set</figcaption>
+  <img src=./images/Margin_brightness_viewlevel.png  alt="hahaha" width="500" height="500">
 </figure>
 
 <figure>
-  <img src=./images/Margin_fog_viewlevel.png  alt="hahaha"> 
   <figcaption>Margin: Fog Test Set</figcaption>
+  <img src=./images/Margin_fog_viewlevel.png  alt="hahaha" width="500" height="500">
 </figure>
 
 <figure>
-  <img src=./images/Margin_glass_blur_viewlevel.png  alt="hahaha"> 
   <figcaption>Margin: Glass Blur Test Set</figcaption>
+  <img src=./images/Margin_glass_blur_viewlevel.png  alt="hahaha" width="500" height="500">
 </figure>
 
 <figure>
-  <img src=./images/Margin_shear_viewlevel.png  alt="hahaha"> 
   <figcaption>Margin: Shear Test Set</figcaption>
+  <img src=./images/Margin_shear_viewlevel.png  alt="hahaha" width="500" height="500">
 </figure>
 
+## 所有测试集，MaxP，各不确定级别桶的结果
+
 <figure>
-  <img src=./images/MaxP_original_viewlevel.png  alt="hahaha"> 
   <figcaption>MaxP: Original Test Set</figcaption>
+  <img src=./images/MaxP_original_viewlevel.png  alt="hahaha" width="500" height="500">
 </figure>
 
 <figure>
-  <img src=./images/MaxP_brightness_viewlevel.png  alt="hahaha"> 
   <figcaption>MaxP: Brightness Test Set</figcaption>
+  <img src=./images/MaxP_brightness_viewlevel.png  alt="hahaha" width="500" height="500">
 </figure>
 
 <figure>
-  <img src=./images/MaxP_fog_viewlevel.png  alt="hahaha"> 
   <figcaption>MaxP: Fog Test Set</figcaption>
+  <img src=./images/MaxP_fog_viewlevel.png  alt="hahaha" width="500" height="500">
 </figure>
 
 <figure>
-  <img src=./images/MaxP_glass_blur_viewlevel.png  alt="hahaha"> 
   <figcaption>MaxP: Glass Blur Test Set</figcaption>
+  <img src=./images/MaxP_glass_blur_viewlevel.png  alt="hahaha" width="500" height="500">
 </figure>
 
 <figure>
-  <img src=./images/MaxP_shear_viewlevel.png  alt="hahaha"> 
   <figcaption>MaxP: Shear Test Set</figcaption>
+  <img src=./images/MaxP_shear_viewlevel.png  alt="hahaha"  width="500" height="500">
 </figure>
